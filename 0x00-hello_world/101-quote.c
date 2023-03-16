@@ -5,7 +5,6 @@
  *
  *  Return : 0 (code successful)
  */
-
 int main(void)
 {
         write(2,
