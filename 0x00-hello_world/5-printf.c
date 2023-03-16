@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * Main- C program that prints a string followed by a line using printf function
- *
- * Return: 0 (code successful)
- */
+* main - A C program that prints followed by a new line using printf
+*
+* Return: 0 (Code Successful)
+*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
