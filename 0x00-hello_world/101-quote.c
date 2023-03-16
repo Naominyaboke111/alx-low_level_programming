@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <unistd.h>
+
 /**
- *  Main - A C program that prints a string followed by a new line to the standard error
- *
- *  Return : 1 (code successful)
- */
+* main - A program that prints to the standard error
+*
+* Return: 1 (Code Successful)
+*/
 int main(void)
 {
 	write(2,
