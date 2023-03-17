@@ -3,11 +3,10 @@
 #include <stdio.h>
 
 /**
- * main -  program will assign a random number to the variable n each time it is executed.n 
+ * main - program will assign a random number to the variable n each time
+ * it is executed.n could be greater than 5,less than 6 or 0
  *
- * could be greater than 5,less than 6 or 0
- *
- * Return: 0 (Code Successful).
+ * Return: 0 (Code Successful)
  */
 int main(void)
 {
